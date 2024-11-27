@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "CCTV Front Door",
+        "url": "rtsp://user:password@192.168.4.1:554/stream"
+    },
+    {
+        "id": 2,
+        "name": "CCTV Backyard",
+        "url": "rtsp://user:password@192.168.4.2:554/stream"
+    }
+]
