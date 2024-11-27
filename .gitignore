@@ -1,2 +1,3 @@
 backend/.env
 backend/cctv_list.json
+backend/know_faces/*
